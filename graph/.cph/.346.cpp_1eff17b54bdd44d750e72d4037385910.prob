@@ -1,0 +1,1 @@
+{"name":"Local: 346","url":"/Users/cocozhang/Desktop/OI_code/ACWING/graph/346.cpp","tests":[{"id":1776323274122,"input":"2\n3\n1 2 2\n1 3 3\n4\n1 2 3\n2 3 4\n3 4 5 ","output":"4\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cocozhang/Desktop/OI_code/ACWING/graph/346.cpp","group":"local","local":true}
